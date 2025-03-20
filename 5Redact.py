@@ -1,3 +1,4 @@
+#Apply RegEx and NER to redact name and email ID in the given image
 import cv2 # type: ignore
 import easyocr # type: ignore
 import re
